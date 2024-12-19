@@ -50,8 +50,8 @@ If you want to get the higher version of Stunger V4 + AntiBug Version, Contact E
 
 | Panel Sizes                       | Panel Prices                                         
 | ---------------------------------| ------------------------------
-| 1GB RAM PANEL                    | 500  NAIRA    ✅   
-| 2GB RAM PANEL                    | 1000 NAIRA   ✅                
+| 1GB RAM PANEL                    | 5000  NAIRA    ✅   
+| 2GB RAM PANEL                    | 1000 0NAIRA   ✅                
 | 3GB RAM PANEL                    | 1500 NAIRA   ✅   
 | 4GB RAM PANEL                    | 2000 NAIRA   ✅             
 | 5GB RAM PANEL                    | 2500 NAIRA   ✅            
